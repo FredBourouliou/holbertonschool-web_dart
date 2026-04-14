@@ -1,0 +1,154 @@
+# ============================================================
+# Dart / Flutter
+# ============================================================
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+build/
+pubspec.lock
+doc/api/
+.flutter-plugins
+.flutter-plugins-dependencies
+.fvm/
+.fvmrc
+coverage/
+*.dart.js
+*.info.json
+*.js
+*.js.deps
+*.js.map
+
+# ============================================================
+# Flutter platform folders (generated)
+# ============================================================
+**/ios/Flutter/.last_build_id
+**/ios/Pods/
+**/ios/.symlinks/
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/App.framework
+**/ios/Flutter/flutter_assets/
+**/ios/Flutter/flutter_export_environment.sh
+**/android/.gradle/
+**/android/captures/
+**/android/gradlew
+**/android/gradlew.bat
+**/android/local.properties
+**/android/**/GeneratedPluginRegistrant.java
+**/android/key.properties
+**/linux/flutter/ephemeral/
+**/macos/Flutter/ephemeral/
+**/windows/flutter/ephemeral/
+**/web/packages/
+
+# ============================================================
+# IDEs & editors
+# ============================================================
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+.history/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+.nova/
+.zed/
+
+# ============================================================
+# macOS
+# ============================================================
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.Spotlight-V100
+.Trashes
+.fseventsd
+.DocumentRevisions-V100
+.TemporaryItems
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+
+# ============================================================
+# Linux
+# ============================================================
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# ============================================================
+# Windows
+# ============================================================
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+Desktop.ini
+$RECYCLE.BIN/
+*.lnk
+
+# ============================================================
+# Logs & temporary files
+# ============================================================
+*.log
+logs/
+*.tmp
+*.temp
+*.bak
+*.old
+*.orig
+*.rej
+*.pid
+*.seed
+*.pid.lock
+
+# ============================================================
+# Environment / secrets
+# ============================================================
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+*.cert
+secrets.json
+credentials.json
+
+# ============================================================
+# Node (if tooling is ever added)
+# ============================================================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+
+# ============================================================
+# Claude Code / AI assistants
+# ============================================================
+.claude/
+.aider*
+.cursor/
+
+# ============================================================
+# Misc
+# ============================================================
+.cache/
+.tmp/
+*.zip
+*.tar
+*.tar.gz
+*.tgz
+*.rar
+*.7z
