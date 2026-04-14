@@ -1,5 +1,13 @@
 # 0x00. Hello, Dart
 
+```
+                   __
+               <(o )___
+                ( ._> /   Quack! Hello Dart!
+                 `---'
+       ~~~~~~~~~~~~~~~~~~~~~~~~~
+```
+
 Introduction to the Dart language: basic syntax, variables, data types,
 control flow and the `main()` entry point.
 
